@@ -1,3 +1,22 @@
-.header_style {
-    text-decoration-color:white;
+body {
+    background-image: url("./oriental-tiles.png");
+}
+.imaging {
+    max-width: 400px;
+    max-height: 400px;
+    padding: 20px;
+}
+.Bio {
+    font-size: 24px;
+    padding: 20px;
+}
+.column-box {
+    background-color: grey;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.main-body {
+    background-color: silver;
+    padding: 15px;
 }
